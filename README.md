@@ -14,6 +14,9 @@ Run Composer Install on project directory
 $ composer install
 ```
 
+Change ``.env.example`` to ``.env`` and modify database
+
+
 Migrate DB
 ```bash
 $ php artisan migrate
